@@ -8,5 +8,5 @@ Agregando practica de Frontend, relacionado a UX/UI, con sus diferentes pasos a 
 <li><a href="https://github.com/OmarVenturaP/Practica-Frontend-Sem1/blob/main/03%20-%20P%C3%BAblico%20Objetivo.pdf" target="blank">Público Objetivo</a></li>
 <li><a href="https://github.com/OmarVenturaP/Practica-Frontend-Sem1/blob/main/04%20-%20UX%20ABOGABOT.pdf" target="blank">Wireframe UX</a></li>
 <li><a href="https://github.com/OmarVenturaP/Practica-Frontend-Sem1/blob/main/05%20-%20UI%20-%20ABOGABOT.md" target="blank">Wireframe UI</a></li>
-
+<br><br>
 <p>Los documentos se siguen actualizando constantemente...</p>
